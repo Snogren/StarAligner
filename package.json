@@ -1,0 +1,31 @@
+{
+  "name": "create-staraligner",
+  "version": "0.1.0",
+  "description": "Scaffold AI agents that work across any coding tool",
+  "type": "module",
+  "bin": {
+    "create-staraligner": "cli/index.mjs"
+  },
+  "files": [
+    "cli/",
+    "agent-template/",
+    "staraligner-agent/",
+    "CONSTITUTION.md",
+    "PHILOSOPHY.md"
+  ],
+  "keywords": [
+    "ai",
+    "agent",
+    "coding-agent",
+    "prompt-engineering",
+    "copilot",
+    "cursor",
+    "claude-code",
+    "agents-md"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Snogren/StarAligner"
+  }
+}
